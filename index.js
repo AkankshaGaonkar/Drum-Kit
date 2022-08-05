@@ -1,9 +1,5 @@
-//ADDING EVENT LISTENERS TO A BUTTON
-// var noofdrumbutton = document.querySelectorAll(".set").length;
-// for(var i=0;i<noofdrumbutton;i++)
-// {
-//     document.querySelectorAll(".set")[i].addEventListener("click",listner);
-// }
+
+
 // function listner()
 // {
 //     alert("Button is clicked");
@@ -50,16 +46,4 @@
 // }
 // var housekeeper1=new HouseKeeper("Timmy",12,["bedroom","washroom"]);
 
-//Switch Statements in js
-var buttonInnerHtml = this.innerHtml;
-switch(buttonInnerHtml){
-    case "w":
-        var crash = new Audio('sounds/crash.mp3');
-        crash.play();
-        break;
-    case "a":
-        var kick = new Audio('sounds/kick.mp3');
-        kick.play();
-        break;
-    default:
-}
+
