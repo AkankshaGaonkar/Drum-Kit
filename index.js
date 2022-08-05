@@ -1,4 +1,14 @@
-
+//Objects and their methods
+//function HouseKeeper(name,experience,cleaningRepertoire)
+// {
+//     this.name=name;
+//     this.experience=experience;
+//     this.cleaningRepertoire=cleaningRepertoire;
+//     this.clean=function(){
+//     alert("Cleaning in progress");
+// }
+// }
+//housekeeper1.clean();
 
 // function listner()
 // {
