@@ -7,10 +7,9 @@ for(var i=0;i<noofbtn;i++)
     makesound(btnInnerhtml);
     });
 }
+
 //Detecting Keyboard Press
-document.addEventListener("keydown",function(event){ makesound(event.key);}); //event.key) with dot,key here gives the parameter of “keydown” event whic is already included in in WEB API, you can think as parameter from ready-defined object.
-
-
+document.addEventListener("keydown", function(event){ makesound(event.key);}); //event.key) with dot,key here gives the parameter of “keydown” event whic is already included in in WEB API, you can think as parameter from ready-defined object.
 
 function makesound(attribute)
 {
