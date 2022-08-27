@@ -1,3 +1,2 @@
 # Drum-Kit
-Drum-Kit Website
-Advanced Javascript and DOM Manipulation
+Drum-Kit Website using Advanced Javascript and DOM Manipulation
