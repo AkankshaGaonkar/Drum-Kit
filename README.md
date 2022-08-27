@@ -1,3 +1,3 @@
 # Drum-Kit
+<image src="https://github.com/AkankshaGaonkar/Drum-Kit/blob/main/Screenshot.png" height="300px" width="500px">
 Drum-Kit Website using Advanced Javascript and DOM Manipulation
-<image src="https://github.com/AkankshaGaonkar/Drum-Kit/blob/main/Screenshot.png" height="200px" width="500px">
